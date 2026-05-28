@@ -1,0 +1,32 @@
+aid: upc-database
+name: UPC database
+description: "More than 1.5 million barcode numbers from all around the world"
+url: https://upcdatabase.org/api
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Open Data"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Open Data
+  - Public APIs
+apis:
+  - name: UPC database
+    description: "More than 1.5 million barcode numbers from all around the world"
+    humanURL: https://upcdatabase.org/api
+    baseURL: https://upcdatabase.org/api
+    tags:
+      - Open Data
+    properties:
+      - type: Documentation
+        url: https://upcdatabase.org/api
+common:
+  - type: Website
+    url: https://upcdatabase.org/api
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
