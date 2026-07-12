@@ -23,6 +23,8 @@ apis:
       - type: Documentation
         url: https://upcdatabase.org/api
 common:
+  - type: DomainSecurity
+    url: security/upc-database-domain-security.yml
   - type: Website
     url: https://upcdatabase.org/api
   - type: PublicAPIsListing
